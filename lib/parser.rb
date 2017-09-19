@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require 'set'
 require 'racc/parser'
 

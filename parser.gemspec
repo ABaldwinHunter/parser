@@ -1,6 +1,5 @@
 # encoding: utf-8
 
-require 'bundler/setup'
 require File.expand_path('../lib/parser/version', __FILE__)
 
 Gem::Specification.new do |spec|
